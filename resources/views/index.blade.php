@@ -369,10 +369,10 @@
                                 <img src="/images/angga.png" class="photo" alt="">
                                 <div class="info">
                                     <h4 class="name">
-                                        Angga
+                                        Syarif
                                     </h4>
                                     <p class="role">
-                                        CEO at BWA Corp
+                                        CEO at CyberLabs
                                     </p>
                                 </div>
                             </div>
